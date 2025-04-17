@@ -7,7 +7,7 @@ import Footer from '@/components/Footer'
 
 const HomePage = () => {
   return (
-    <div className='bg-zinc-950'>
+    <div className='bg-zinc-950 overflow-x-hidden'>
       <div className='relative w-screen h-screen bg-violet-950/20'>
       <Navbar />
       <HeroSection />
