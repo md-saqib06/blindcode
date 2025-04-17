@@ -2,7 +2,7 @@ import React from 'react'
 
 const HeroSection = () => {
   return (
-    <div className='min-h-[90vh] w-screen flex flex-col items-center justify-center space-y-6 absolute top-0 inset-0'>
+    <div className='min-h-[80vh] w-screen flex flex-col items-center justify-center space-y-6  top-0 inset-0'>
       <h1 className='text-6xl text-violet-950/90 text-shadow-cyan-300 text-shadow-2xs backdrop-b'>
       BlindCode
       </h1>
