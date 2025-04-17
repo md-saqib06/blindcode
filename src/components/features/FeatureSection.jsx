@@ -25,8 +25,9 @@ const features = [{
 
 const FeatureSection = () => {
   return (
+    
     // Background
-    <div className='flex gap-40 flex-wrap text-white bg-violet-950 z-10'>
+    <div className='grid grid-cols-1 xl:grid-cols-3 gap-10 px-36 py-12 text-white bg-violet-950/30 backdrop-blur-md z-10'>
        {features.map((feature) => (
           <FeatureCard
                 title={feature.title}
