@@ -7,19 +7,19 @@ const features = [{
     },
     {
         title: "Custom Themes",
-        desc: "Aminations"
+        desc: "Dark-themed interface with sci-fi asthetics and consistent branding."
     },
     {
         title: "Timed Inspection",
-        desc: "Aminations"
+        desc: "Inspect the interface page only for 10 minutes each hour - maximize every second."
     },
     {
         title: "Pressure Challenge",
-        desc: "Aminations"
+        desc: "Face the pressure of high-pressure coding-perfect for testing your skills."
     },
     {
         title: "Interactive Elements",
-        desc: "Aminations"
+        desc: "Recreate animations and UI behaviour with attention to detail."
     },
 ]
 
