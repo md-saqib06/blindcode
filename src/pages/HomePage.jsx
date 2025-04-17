@@ -2,6 +2,7 @@ import { Particles } from '@/components/magicui/particles'
 import React from 'react'
 import Navbar from '@/components/navbar/Navbar'
 import HeroSection from '@/components/herosection/HeroSection'
+import FeatureSection from '@/components/features/FeatureSection'
 
 const HomePage = () => {
   return (
@@ -9,6 +10,7 @@ const HomePage = () => {
       <div className='relative overflow-hidden w-screen h-screen bg-violet-950/20'>
       <Navbar />
       <HeroSection />
+      <FeatureSection/>
       <Particles
         className="absolute inset-0 z-0 w-full h-screen"
         quantity={120}
